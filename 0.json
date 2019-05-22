@@ -3,7 +3,7 @@
   "external_url": "https://site.com/0", 
   "image": "https://site.com/0.png", 
   "name": "Joe Schmoe Jersey",
-  "attributes": "attributes": [
+  "attributes": [
     {
       "trait_type": "base", 
       "value": "starfish"
